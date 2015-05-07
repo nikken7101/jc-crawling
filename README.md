@@ -5,8 +5,10 @@
 [Japan Contest](http://japancontest.net) の結果ページをクロールして当選回数を調べます
 
 ## Requirement
+* Python 3.x
 * BeautifulSoup4
-
+* lxml
+* Pandas
 
 ## Licence
 
